@@ -1,0 +1,83 @@
+{
+  "$schema": "https://opencode.ai/theme.json",
+  "defs": {
+    "darkBg": "#0f0f0f",
+    "darkBgPanel": "#15141b",
+    "darkBorder": "#2d2d2d",
+    "darkFgMuted": "#6d6d6d",
+    "darkFg": "#edecee",
+    "purple": "#000000",
+    "darkpurple": "#8055ff",
+    "pink": "#96349f",
+    "blue": "#82e2ff",
+    "red": "#ff6767",
+    "orange": "#ffca76",
+    "darkorange": "#ff9763",
+    "cyan": "#364af6",
+    "darkcyan": "#33ff99",
+    "green": "#9dff65",
+    "darkGreen": "#0d4f2a"
+    
+ 
+  },
+  "theme": {
+
+    "primary": "#000000",
+    "secondary": "pink",
+    "accent": "#000000",
+    "text": "#000000",
+    "textMuted": "#000000",
+
+    "error": "red",
+    "warning": "orange",
+    "success": "cyan",
+    "info": "purple",
+
+    "border": "darkBorder",
+    "borderActive": "darkFgMuted",
+    "borderSubtle": "darkBorder",
+    "diffAdded": "cyan",
+    "diffRemoved": "red",
+    "diffContext": "darkFgMuted",
+    "diffHunkHeader": "darkFgMuted",
+    "diffHighlightAdded": "cyan",
+    "diffHighlightRemoved": "red",
+    "diffAddedBg": "#354933",
+    "diffRemovedBg": "#3f191a",
+    "diffContextBg": "darkBgPanel",
+    "diffLineNumber": "#898989",
+    "diffAddedLineNumberBg": "#162620",
+    "diffRemovedLineNumberBg": "#26161a",
+    "markdownText": "darkFg",
+    "markdownHeading": "purple",
+    "markdownLink": "pink",
+    "markdownLinkText": "purple",
+    "markdownCode": "cyan",
+    "markdownBlockQuote": "darkFgMuted",
+    "markdownEmph": "orange",
+    "markdownStrong": "purple",
+    "markdownHorizontalRule": "darkFgMuted",
+    "markdownListItem": "purple",
+    "markdownListEnumeration": "purple",
+    "markdownImage": "pink",
+    "markdownImageText": "purple",
+    "markdownCodeBlock": "darkFg",
+    "syntaxComment": "darkFgMuted",
+    "syntaxKeyword": "pink",
+    "syntaxFunction": "purple",
+    "syntaxVariable": "purple",
+    "syntaxString": "cyan",
+    "syntaxNumber": "green",
+    "syntaxType": "purple",
+    "syntaxOperator": "pink",
+    "syntaxPunctuation": "darkFg",
+    
+    "background": "#ef989b",
+    "backgroundPanel": "#df8d90",
+    "backgroundElement": "#df8d90"
+
+  
+
+  }
+
+}
